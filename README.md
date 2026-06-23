@@ -1,54 +1,72 @@
-# 👋 Hola, soy Jhonatan Stiven Vélez Guevara
+<h1 align="center">
+👨‍💻 Jhonatan Stiven Vélez Guevara
+</h1>
 
-### 💻 Desarrollador Full Stack
+<h3 align="center">
+Desarrollador Full Stack | PHP | JavaScript | React | MySQL
+</h3>
 
-📍 Medellín, Antioquia, Colombia
+<p align="center">
 
-Soy Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web personalizadas utilizando PHP, MySQL, JavaScript, React y Tailwind CSS.
+📍 Medellín, Colombia • 💼 Disponible para oportunidades Full Stack y Backend
 
-He participado en la creación de sistemas de gestión empresarial, control de personal, reservas y software administrativo, enfocados en optimizar procesos y mejorar la productividad de los negocios.
+</p>
 
----
+# 🚀 Stack Tecnológico
 
-## 🚀 Tecnologías
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+<td valign="top" width="33%">
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php" />
+</p>
 
----
+</td>
+
+<td valign="top" width="33%">
 
 ### Base de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Herramientas
+# 🛠️ Herramientas y Entorno
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
 
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Herramienta | Uso |
+|------------|------|
+| Cursor | Desarrollo asistido por IA |
+| Git | Control de versiones |
+| GitHub | Gestión de repositorios |
+| VS Code | Desarrollo de software |
+| MySQL Workbench | Administración de bases de datos |
 
----
+</p>
 
 # 💼 Experiencia
 
@@ -113,6 +131,22 @@ Desarrollo de soluciones web personalizadas para fundaciones y negocios locales.
 ✅ Desarrollo de software empresarial personalizado.
 
 ---
+
+# 🎯 Especialidades
+
+✅ Desarrollo de Software Empresarial
+
+✅ Sistemas de Gestión de Personal
+
+✅ Sistemas de Reservas
+
+✅ Automatización de Procesos
+
+✅ Diseño de Bases de Datos Relacionales
+
+✅ Desarrollo Web Responsive
+
+✅ Desarrollo Full Stack
 
 # 📚 Actualmente Aprendiendo
 
