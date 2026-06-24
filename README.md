@@ -6,7 +6,7 @@
 Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 </h3>
 
-<p align="center">
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,php,mysql,git,github,vscode&perline=11" /> </p>
 
 📍 Medellín, Colombia • 💼 Disponible para oportunidades Full Stack y Backend
 
@@ -20,9 +20,7 @@ Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
-</p>
+<p align="center"> <strong>Frontend:</strong> HTML5 • CSS3 • JavaScript • React • TypeScript • Tailwind CSS </p>
 
 </td>
 
@@ -30,9 +28,7 @@ Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 
 ### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php" />
-</p>
+<p align="center"> <strong>Backend:</strong> PHP </p>
 
 </td>
 
@@ -40,9 +36,7 @@ Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 
 ### Base de Datos
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<p align="center"> <strong>Base de Datos:</strong> MySQL </p>
 
 </td>
 </tr>
@@ -52,9 +46,7 @@ Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 
 # 🛠️ Herramientas y Entorno
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<p align="center"> <strong>Herramientas:</strong> Git • GitHub • VS Code • Cursor • MySQL Workbench </p>
 
 <p align="center">
 
@@ -69,6 +61,30 @@ Desarrollador Full Stack | PHP | JavaScript | React | MySQL
 </p>
 
 # 💼 Experiencia
+
+🎾 CourtFlow - Tennis Academy Management System
+
+Software web diseñado para la administración integral de una academia deportiva de tenis de campo.
+
+- Funcionalidades principales
+- Gestión de clientes
+- Gestión de profesores
+- Gestión de turnos y horarios
+- Administración de paquetes de clases
+- Control de asistencia
+- Gestión de pagos
+- Roles y permisos de usuarios
+- Login personalizado según el rol
+- Panel administrativo
+- Reportes operativos
+- Tecnologías
+
+PHP • MySQL • JavaScript • Tailwind CSS
+
+Estado
+
+🚧 En desarrollo
+
 
 ## Sistema de Gestión de Personal
 
